@@ -1,5 +1,5 @@
 # Udacity Data Scientist Nanodegree
 
-## All Exercise Solutions
+This repository will contain my solutions to all exercises from the Udacity Data Scientist Nanodegree.
 
-## Part 1: Data Science Process
+## Lesson 1 : Data Science Process
