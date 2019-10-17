@@ -8,4 +8,6 @@ This repository will contain my solutions to all exercises from the Udacity Data
 ## Lesson 4 : Introduction to Object Oriented Programming
 ## Lesson 5 : Web Development
 ## Lesson 6 : Data Engineering
+	### 1. ETL pipelines
+    	
 ## Lesson 7 : Experimental Design and Recommendations
