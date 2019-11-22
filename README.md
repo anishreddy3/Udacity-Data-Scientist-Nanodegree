@@ -9,3 +9,4 @@ This repository will contain my solutions to all exercises from the Udacity Data
 ## Lesson 5 : Web Development
 ## Lesson 6 : Data Engineering
 ## Lesson 7 : Experimental Design and Recommendations
+## Lesson 8 : Data Scientist Capstone
